@@ -1,4 +1,4 @@
-![I am Passionate MERN Stack Developer](https://i.ibb.co/TqhYYKt/GIT-BANNER-197-5-50-mm.png)
+![I am Passionate MERN Stack Developer]([https://i.ibb.co/TqhYYKt/GIT-BANNER-197-5-50-mm.png](https://i.ibb.co/SnFLghM/Black-Minimalist-Finance-Manager-Linked-In-Banner.png))
 
 
 ### Hi there 👋, I'm Rakibul Ansari Arifin
