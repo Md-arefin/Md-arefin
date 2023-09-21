@@ -10,7 +10,7 @@ My intrinsic drive, effective teamwork, and adept communication abilities, coupl
 
 I actively engage in diverse projects that serve as my proving grounds for MERN stack development. These experiences have honed my abilities in building web applications tailored to user needs, establishing secure authentication systems, and seamlessly integrating payment gateways. Moreover, I have become proficient in leveraging contemporary development tools and fostering collaboration within teams, consistently delivering high-quality outcomes.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills:  REACT / JS / HTML / CSS / REDUX / NEXT / AXIOS / JWT
 
 - 💬 Ask me about Web development 
 - 📫 How to reach me: ansariarefin617@gmail.com
