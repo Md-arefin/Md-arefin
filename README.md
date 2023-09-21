@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-arefin&label=Profile%20views&color=0e75b6&style=flat" alt="md-arefin" /> </p>
 
 <h1 align="center">Hi 👋, I'm Rakibul Ansari Arifin</h1>
-<h3 align="center">I am a Passionate MERN Stack Developer</h3>
+<h3 align="left">I am a Passionate MERN Stack Developer</h3>
 
 <p>
   I am a budding MERN stack developer at the junior level, deeply enthusiastic about the realm of front-end development. My skill set encompasses HTML, CSS, TailWind, DaisyUi, Bootstrap, React, React Router, Firebase, JavaScript, Stripe, and React-query, empowering me to craft web applications that are both responsive and user-centric. My toolbox also includes JWT and Axios for robust backend functionality.
