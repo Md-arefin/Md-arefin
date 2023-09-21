@@ -4,9 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Rakibul Ansari Arifin</h1>
 
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
-
-<img src="[https://giphy.com/embed/qgQUggAC3Pfv687qPC](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <h3 align="left">I am a Passionate MERN Stack Developer</h3>
 
