@@ -1,8 +1,8 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Md-arefin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rakibul-ansari-arefin-290aa4231/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/muhammadarifin.24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/arefin3084/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-c1106.web.app/)
+![I am Passionate MERN Stack Developer](https://i.ibb.co/TqhYYKt/GIT-BANNER-197-5-50-mm.png)
+
 
 ### Hi there 👋, I'm Rakibul Ansari Arifin
-#### I am Passionate MERN Stack Developer
-![I am Passionate MERN Stack Developer](https://i.ibb.co/TqhYYKt/GIT-BANNER-197-5-50-mm.png)
+#### I am a Passionate MERN Stack Developer
 
 I am a budding MERN stack developer at the junior level, deeply enthusiastic about the realm of front-end development. My skill set encompasses HTML, CSS, TailWind, DaisyUi, Bootstrap, React, React Router, Firebase, JavaScript, Stripe, and React-query, empowering me to craft web applications that are both responsive and user-centric. My toolbox also includes JWT and Axios for robust backend functionality.
 
@@ -13,7 +13,9 @@ I actively engage in diverse projects that serve as my proving grounds for MERN 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 💬 Ask me about Web development 
-- 📫 How to reach me: ansariarefin617@gmail.com 
+- 📫 How to reach me: ansariarefin617@gmail.com
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Md-arefin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rakibul-ansari-arefin-290aa4231/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/muhammadarifin.24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/arefin3084/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-c1106.web.app/)
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
