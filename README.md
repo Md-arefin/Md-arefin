@@ -26,14 +26,12 @@ I actively engage in diverse projects that serve as my proving grounds for MERN 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/010arefin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="010arefin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rakibul-ansari-arefin-290aa4231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakibul-ansari-arefin-290aa4231" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21675617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21675617" height="30" width="40" /></a>
+<a href="https://instagram.com/arefin3084" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arefin3084" height="30" width="40" /></a>
 <a href="https://fb.com/muhammadarifin.24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammadarifin.24" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/arefin3084/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/arefin3084/" height="30" width="40" /></a>
-<a href="https://dribbble.com/arefin84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="arefin84" height="30" width="40" /></a>
+<a href="https://codepen.io/010arefin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="010arefin" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21675617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21675617" height="30" width="40" /></a>
 <a href="https://medium.com/@ansariarefin617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ansariarefin617" height="30" width="40" /></a>
-<a href="https://discord.gg/rakibul_ansari_arifin84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rakibul_ansari_arifin84" height="30" width="40" /></a>
 </p>
 
 
