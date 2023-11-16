@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://i.ibb.co/SnFLghM/Black-Minimalist-Finance-Manager-Linked-In-Banner.png)
+
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=md-arefin&label=Profile%20views&color=0e75b6&style=flat" alt="md-arefin" /> </p>
 
