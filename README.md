@@ -1,8 +1,8 @@
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=md-arefin&label=Profile%20views&color=0e75b6&style=flat" alt="md-arefin" /> </p>
 
 <h1 align="left">Hi 👋, I'm Rakibul Ansari Arifin</h1>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=md-arefin&label=Profile%20views&color=0e75b6&style=flat" alt="md-arefin" /> </p>
 
 <div align="center">
  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
